@@ -2,7 +2,7 @@
 
 * 以下の記事を参考に、.NETのWebAssemblyをReactで動かしてみようとした  
   https://learn.microsoft.com/ja-jp/aspnet/core/client-side/dotnet-interop?view=aspnetcore-7.0
-* 結果、dev環境での動作はできたが、production開発でのビルドでは動かなかった
+* 結果、dev環境での動作はできたが、production環境でビルドしては動かなかった
 
 ## Requirements
 
